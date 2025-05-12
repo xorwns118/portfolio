@@ -5,6 +5,9 @@
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CAnimation.cpp"
 
 
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CAnimation_Tool.cpp"
+
+
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CAnimator.cpp"
 
 

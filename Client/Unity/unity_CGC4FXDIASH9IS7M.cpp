@@ -1,7 +1,4 @@
 
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CRes.cpp"
-
-
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CResMgr.cpp"
 
 
@@ -21,6 +18,12 @@
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CSoundMgr.cpp"
+
+
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CStage_01.cpp"
+
+
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CStage_02.cpp"
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CState.cpp"

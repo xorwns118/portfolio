@@ -140,6 +140,15 @@
     <Filter Include="Engine\03. Manager\SoundMgr">
       <UniqueIdentifier>{4412d8c2-539e-46fc-bcd4-201f0d19f814}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\05. Scene\Animation_Tool">
+      <UniqueIdentifier>{0cce0502-f20e-4493-abb9-5809007f92eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\05. Scene\Stage_02">
+      <UniqueIdentifier>{0d18dcc2-0664-4958-bf88-93f781bf28a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\05. Scene\Stage_01">
+      <UniqueIdentifier>{ef8d2b5b-a31e-4df5-8069-88e0080beae0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Client.h">
@@ -278,6 +287,15 @@
     <ClInclude Include="CSoundMgr.h">
       <Filter>Engine\03. Manager\SoundMgr</Filter>
     </ClInclude>
+    <ClInclude Include="CAnimation_Tool.h">
+      <Filter>Engine\05. Scene\Animation_Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_01.h">
+      <Filter>Engine\05. Scene\Stage_01</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_02.h">
+      <Filter>Engine\05. Scene\Stage_02</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Client.rc">
@@ -410,6 +428,15 @@
     </ClCompile>
     <ClCompile Include="CSoundMgr.cpp">
       <Filter>Engine\03. Manager\SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CAnimation_Tool.cpp">
+      <Filter>Engine\05. Scene\Animation_Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_01.cpp">
+      <Filter>Engine\05. Scene\Stage_01</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_02.cpp">
+      <Filter>Engine\05. Scene\Stage_02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
