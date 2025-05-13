@@ -11,7 +11,13 @@
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CAnimator.cpp"
 
 
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CBackground.cpp"
+
+
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CBtnUI.cpp"
+
+
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CBush.cpp"
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CCamera.cpp"
@@ -27,7 +33,4 @@
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CEventMgr.cpp"
-
-
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CGravity.cpp"
 

@@ -149,6 +149,15 @@
     <Filter Include="Engine\05. Scene\Stage_01">
       <UniqueIdentifier>{ef8d2b5b-a31e-4df5-8069-88e0080beae0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\04. Object\Bush">
+      <UniqueIdentifier>{6d502678-4dbc-4d30-b5d1-8c46d6ce15fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\04. Object\Background">
+      <UniqueIdentifier>{328e25b4-7188-47c0-9ae3-5c4d7092dece}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\04. Object\Foreground">
+      <UniqueIdentifier>{6112cbf2-9f2e-4cc9-b3c5-4cf9dfbd1a50}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Client.h">
@@ -296,6 +305,15 @@
     <ClInclude Include="CStage_02.h">
       <Filter>Engine\05. Scene\Stage_02</Filter>
     </ClInclude>
+    <ClInclude Include="CBush.h">
+      <Filter>Engine\04. Object\Bush</Filter>
+    </ClInclude>
+    <ClInclude Include="CBackground.h">
+      <Filter>Engine\04. Object\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="CForeground.h">
+      <Filter>Engine\04. Object\Foreground</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Client.rc">
@@ -437,6 +455,15 @@
     </ClCompile>
     <ClCompile Include="CStage_02.cpp">
       <Filter>Engine\05. Scene\Stage_02</Filter>
+    </ClCompile>
+    <ClCompile Include="CBush.cpp">
+      <Filter>Engine\04. Object\Bush</Filter>
+    </ClCompile>
+    <ClCompile Include="CBackground.cpp">
+      <Filter>Engine\04. Object\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="CForeground.cpp">
+      <Filter>Engine\04. Object\Foreground</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

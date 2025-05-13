@@ -1,4 +1,10 @@
 
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CForeground.cpp"
+
+
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CGravity.cpp"
+
+
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CGround.cpp"
 
 
@@ -27,7 +33,4 @@
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPlayer.cpp"
-
-
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CRes.cpp"
 
