@@ -153,7 +153,7 @@
     <ClInclude Include="CAnimator.h" />
     <ClInclude Include="CBackground.h" />
     <ClInclude Include="CBtnUI.h" />
-    <ClInclude Include="CBush.h" />
+    <ClInclude Include="CElement.h" />
     <ClInclude Include="CCamera.h" />
     <ClInclude Include="CCollider.h" />
     <ClInclude Include="CCollisionMgr.h" />
@@ -165,6 +165,7 @@
     <ClInclude Include="CIdleState.h" />
     <ClInclude Include="CKeyMgr.h" />
     <ClInclude Include="Client.h" />
+    <ClInclude Include="CMarker.h" />
     <ClInclude Include="CMissile.h" />
     <ClInclude Include="CMonFactory.h" />
     <ClInclude Include="CMonster.h" />
@@ -207,7 +208,7 @@
     <ClCompile Include="CAnimator.cpp" />
     <ClCompile Include="CBackground.cpp" />
     <ClCompile Include="CBtnUI.cpp" />
-    <ClCompile Include="CBush.cpp" />
+    <ClCompile Include="CElement.cpp" />
     <ClCompile Include="CCamera.cpp" />
     <ClCompile Include="CCollider.cpp" />
     <ClCompile Include="CCollisionMgr.cpp" />
@@ -218,6 +219,7 @@
     <ClCompile Include="CGround.cpp" />
     <ClCompile Include="CIdleState.cpp" />
     <ClCompile Include="CKeyMgr.cpp" />
+    <ClCompile Include="CMarker.cpp" />
     <ClCompile Include="CMissile.cpp" />
     <ClCompile Include="CMonFactory.cpp" />
     <ClCompile Include="CMonster.cpp" />

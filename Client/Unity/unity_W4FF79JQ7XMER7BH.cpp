@@ -1,4 +1,7 @@
 
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPlayer.cpp"
+
+
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CRes.cpp"
 
 
@@ -30,7 +33,4 @@
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CState.cpp"
-
-
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CTexture.cpp"
 

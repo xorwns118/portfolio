@@ -14,6 +14,9 @@
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CKeyMgr.cpp"
 
 
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CMarker.cpp"
+
+
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CMissile.cpp"
 
 
@@ -30,7 +33,4 @@
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPathMgr.cpp"
-
-
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPlayer.cpp"
 

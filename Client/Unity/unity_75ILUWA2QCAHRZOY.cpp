@@ -17,7 +17,7 @@
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CBtnUI.cpp"
 
 
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CBush.cpp"
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CElement.cpp"
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CCamera.cpp"

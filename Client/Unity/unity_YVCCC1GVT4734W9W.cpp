@@ -1,4 +1,7 @@
 
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CTexture.cpp"
+
+
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CTile.cpp"
 
 
