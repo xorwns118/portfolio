@@ -161,6 +161,9 @@
     <Filter Include="Engine\07. Component\Marker">
       <UniqueIdentifier>{b7eeec53-a8ba-46b9-98d0-17797eac1b2c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\04. Object\Potal">
+      <UniqueIdentifier>{95c5ecb8-aefd-4351-8603-3ce6ac1a6354}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Client.h">
@@ -320,6 +323,9 @@
     <ClInclude Include="CMarker.h">
       <Filter>Engine\07. Component\Marker</Filter>
     </ClInclude>
+    <ClInclude Include="CPotal.h">
+      <Filter>Engine\04. Object\Potal</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Client.rc">
@@ -473,6 +479,9 @@
     </ClCompile>
     <ClCompile Include="CMarker.cpp">
       <Filter>Engine\07. Component\Marker</Filter>
+    </ClCompile>
+    <ClCompile Include="CPotal.cpp">
+      <Filter>Engine\04. Object\Potal</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

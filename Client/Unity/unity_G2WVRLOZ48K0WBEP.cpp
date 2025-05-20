@@ -2,6 +2,9 @@
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPlayer.cpp"
 
 
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPotal.cpp"
+
+
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CRes.cpp"
 
 
@@ -30,7 +33,4 @@
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CStage_02.cpp"
-
-
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CState.cpp"
 
