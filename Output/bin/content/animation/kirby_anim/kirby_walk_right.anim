@@ -1,0 +1,130 @@
+[Animation Name]
+KIRBY_WALK_RIGHT
+[Texture Name]
+KirbyTexR
+[Texture Path]
+texture\Kirby\Kirby\Kirby_Kirby_Right.bmp
+[Frame Count]
+10
+
+
+[Frame Index]
+0
+[Left Top]
+254, 11
+[Slice Size]
+21, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+1
+[Left Top]
+276, 10
+[Slice Size]
+22, 20
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+2
+[Left Top]
+299, 11
+[Slice Size]
+21, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+3
+[Left Top]
+321, 13
+[Slice Size]
+20, 17
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+4
+[Left Top]
+342, 12
+[Slice Size]
+18, 18
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+5
+[Left Top]
+361, 11
+[Slice Size]
+18, 18
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+6
+[Left Top]
+381, 10
+[Slice Size]
+22, 20
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+7
+[Left Top]
+404, 11
+[Slice Size]
+21, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+8
+[Left Top]
+426, 13
+[Slice Size]
+20, 17
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+9
+[Left Top]
+447, 12
+[Slice Size]
+20, 18
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
