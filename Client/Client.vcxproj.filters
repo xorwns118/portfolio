@@ -468,9 +468,6 @@
     <ClCompile Include="CStage_02.cpp">
       <Filter>Engine\05. Scene\Stage_02</Filter>
     </ClCompile>
-    <ClCompile Include="CElement.cpp">
-      <Filter>Engine\04. Object\Element</Filter>
-    </ClCompile>
     <ClCompile Include="CBackground.cpp">
       <Filter>Engine\04. Object\Background</Filter>
     </ClCompile>
@@ -482,6 +479,9 @@
     </ClCompile>
     <ClCompile Include="CPotal.cpp">
       <Filter>Engine\04. Object\Potal</Filter>
+    </ClCompile>
+    <ClCompile Include="CElement.cpp">
+      <Filter>Engine\04. Object\Element</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
