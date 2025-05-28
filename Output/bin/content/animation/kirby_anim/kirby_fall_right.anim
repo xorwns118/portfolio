@@ -1,0 +1,46 @@
+[Animation Name]
+KIRBY_FALL_RIGHT
+[Texture Name]
+KirbyTexR
+[Texture Path]
+texture\Kirby\Kirby\Kirby_Kirby_Right.bmp
+[Frame Count]
+3
+
+
+[Frame Index]
+0
+[Left Top]
+939, 9
+[Slice Size]
+22, 20
+[Offset]
+0, 0
+[Duration]
+0.070000
+
+
+[Frame Index]
+1
+[Left Top]
+962, 9
+[Slice Size]
+22, 20
+[Offset]
+0, 0
+[Duration]
+0.070000
+
+
+[Frame Index]
+2
+[Left Top]
+8, 41
+[Slice Size]
+22, 20
+[Offset]
+0, 0
+[Duration]
+0.070000
+
+

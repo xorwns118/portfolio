@@ -1,0 +1,104 @@
+[Animation Name]
+KIRBY_LANDING_RIGHT
+[Texture Name]
+KirbyTexR
+[Texture Path]
+texture\Kirby\Kirby\Kirby_Kirby_Right.bmp
+[Frame Count]
+8
+
+
+[Frame Index]
+0
+[Left Top]
+31, 41
+[Slice Size]
+21, 19
+[Offset]
+0, 0
+[Duration]
+0.010000
+
+
+[Frame Index]
+1
+[Left Top]
+55, 41
+[Slice Size]
+21, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+2
+[Left Top]
+79, 41
+[Slice Size]
+21, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+3
+[Left Top]
+103, 41
+[Slice Size]
+21, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+4
+[Left Top]
+128, 41
+[Slice Size]
+20, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+5
+[Left Top]
+152, 41
+[Slice Size]
+20, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+6
+[Left Top]
+175, 41
+[Slice Size]
+20, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+7
+[Left Top]
+199, 41
+[Slice Size]
+21, 19
+[Offset]
+0, 0
+[Duration]
+0.100000
