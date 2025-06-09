@@ -8,6 +8,9 @@
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CGround.cpp"
 
 
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CIce_Kirby.cpp"
+
+
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CIdleState.cpp"
 
 
@@ -17,7 +20,7 @@
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CMarker.cpp"
 
 
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CMissile.cpp"
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CProjectile.cpp"
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CMonFactory.cpp"
@@ -30,7 +33,4 @@
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPanelUI.cpp"
-
-
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPathMgr.cpp"
 

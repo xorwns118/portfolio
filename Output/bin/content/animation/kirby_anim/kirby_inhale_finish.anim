@@ -1,46 +1,56 @@
 [Animation Name]
-KIRBY_FALL_RIGHT
+KIRBY_INHALE_FINISH
 [Texture Name]
-KirbyTexR
+KirbyTex
 [Texture Path]
-texture\Kirby\Kirby\Kirby_Kirby_Right.bmp
+texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
 [Frame Count]
-3
+4
 
 
 [Frame Index]
 0
 [Left Top]
-939, 9
+819, 80
 [Slice Size]
-22, 20
+39, 40
 [Offset]
 0, 0
 [Duration]
-0.070000
+0.100000
 
 
 [Frame Index]
 1
 [Left Top]
-962, 9
+858, 80
 [Slice Size]
-22, 20
+39, 40
 [Offset]
 0, 0
 [Duration]
-0.070000
+0.100000
 
 
 [Frame Index]
 2
 [Left Top]
-8, 41
+897, 80
 [Slice Size]
-22, 20
+39, 40
 [Offset]
 0, 0
 [Duration]
-0.070000
+0.100000
 
 
+[Frame Index]
+3
+[Left Top]
+936, 80
+[Slice Size]
+39, 40
+[Offset]
+0, 0
+[Duration]
+0.100000

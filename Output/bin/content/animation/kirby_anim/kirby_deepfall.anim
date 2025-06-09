@@ -1,0 +1,46 @@
+[Animation Name]
+KIRBY_DEEPFALL
+[Texture Name]
+KirbyTex
+[Texture Path]
+texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
+[Frame Count]
+3
+
+
+[Frame Index]
+0
+[Left Top]
+468, 0
+[Slice Size]
+39, 40
+[Offset]
+0, 0
+[Duration]
+0.070000
+
+
+[Frame Index]
+1
+[Left Top]
+507, 0
+[Slice Size]
+39, 40
+[Offset]
+0, 0
+[Duration]
+0.070000
+
+
+[Frame Index]
+2
+[Left Top]
+546, 0
+[Slice Size]
+39, 40
+[Offset]
+0, 0
+[Duration]
+0.070000
+
+

@@ -1,9 +1,9 @@
 [Animation Name]
-KIRBY_IDLE_LEFT
+KIRBY_IDLE
 [Texture Name]
-KirbyTexL
+KirbyTex
 [Texture Path]
-texture\Kirby\Kirby\Kirby_Kirby_Left.bmp
+texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
 [Frame Count]
 1
 
@@ -11,9 +11,9 @@ texture\Kirby\Kirby\Kirby_Kirby_Left.bmp
 [Frame Index]
 0
 [Left Top]
-972, 11
+0, 0
 [Slice Size]
-21, 19
+39, 40
 [Offset]
 0, 0
 [Duration]

@@ -1,0 +1,33 @@
+[Animation Name]
+KIRBY_INHALE_DEEP
+[Texture Name]
+KirbyTex
+[Texture Path]
+texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
+[Frame Count]
+2
+
+
+[Frame Index]
+0
+[Left Top]
+702, 80
+[Slice Size]
+39, 40
+[Offset]
+0, 0
+[Duration]
+0.100000
+
+
+[Frame Index]
+1
+[Left Top]
+741, 80
+[Slice Size]
+39, 40
+[Offset]
+0, 0
+[Duration]
+0.100000
+

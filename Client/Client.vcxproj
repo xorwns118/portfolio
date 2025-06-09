@@ -162,11 +162,12 @@
     <ClInclude Include="CForeground.h" />
     <ClInclude Include="CGravity.h" />
     <ClInclude Include="CGround.h" />
+    <ClInclude Include="CIce_Kirby.h" />
     <ClInclude Include="CIdleState.h" />
     <ClInclude Include="CKeyMgr.h" />
     <ClInclude Include="Client.h" />
     <ClInclude Include="CMarker.h" />
-    <ClInclude Include="CMissile.h" />
+    <ClInclude Include="CProjectile.h" />
     <ClInclude Include="CMonFactory.h" />
     <ClInclude Include="CMonster.h" />
     <ClInclude Include="CObject.h" />
@@ -218,10 +219,11 @@
     <ClCompile Include="CForeground.cpp" />
     <ClCompile Include="CGravity.cpp" />
     <ClCompile Include="CGround.cpp" />
+    <ClCompile Include="CIce_Kirby.cpp" />
     <ClCompile Include="CIdleState.cpp" />
     <ClCompile Include="CKeyMgr.cpp" />
     <ClCompile Include="CMarker.cpp" />
-    <ClCompile Include="CMissile.cpp" />
+    <ClCompile Include="CProjectile.cpp" />
     <ClCompile Include="CMonFactory.cpp" />
     <ClCompile Include="CMonster.cpp" />
     <ClCompile Include="CObject.cpp" />

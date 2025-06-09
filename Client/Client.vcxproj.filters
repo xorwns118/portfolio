@@ -164,6 +164,9 @@
     <Filter Include="Engine\04. Object\Potal">
       <UniqueIdentifier>{95c5ecb8-aefd-4351-8603-3ce6ac1a6354}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\04. Object\Player\Ice_Kirby">
+      <UniqueIdentifier>{51751e6a-1513-484a-8514-074f26624fcf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Client.h">
@@ -215,7 +218,7 @@
     <ClInclude Include="CMonster.h">
       <Filter>Engine\04. Object\Monster</Filter>
     </ClInclude>
-    <ClInclude Include="CMissile.h">
+    <ClInclude Include="CProjectile.h">
       <Filter>Engine\04. Object\Missile</Filter>
     </ClInclude>
     <ClInclude Include="CRes.h">
@@ -326,6 +329,9 @@
     <ClInclude Include="CPotal.h">
       <Filter>Engine\04. Object\Potal</Filter>
     </ClInclude>
+    <ClInclude Include="CIce_Kirby.h">
+      <Filter>Engine\04. Object\Player\Ice_Kirby</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Client.rc">
@@ -375,7 +381,7 @@
     <ClCompile Include="CMonster.cpp">
       <Filter>Engine\04. Object\Monster</Filter>
     </ClCompile>
-    <ClCompile Include="CMissile.cpp">
+    <ClCompile Include="CProjectile.cpp">
       <Filter>Engine\04. Object\Missile</Filter>
     </ClCompile>
     <ClCompile Include="CRes.cpp">
@@ -482,6 +488,9 @@
     </ClCompile>
     <ClCompile Include="CElement.cpp">
       <Filter>Engine\04. Object\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="CIce_Kirby.cpp">
+      <Filter>Engine\04. Object\Player\Ice_Kirby</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

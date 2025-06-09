@@ -1,4 +1,7 @@
 
+#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPathMgr.cpp"
+
+
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CPlayer.cpp"
 
 
@@ -30,7 +33,4 @@
 
 
 #include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CStage_01.cpp"
-
-
-#include "A:\Users\User\Desktop\StudyProject\Kirby\Client\CStage_02.cpp"
 

@@ -1,31 +1,31 @@
 [Animation Name]
-KIRBY_WALK_LEFT
+KIRBY_LANDING
 [Texture Name]
-KirbyTexL
+KirbyTex
 [Texture Path]
-texture\Kirby\Kirby\Kirby_Kirby_Left.bmp
+texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
 [Frame Count]
-10
+8
 
 
 [Frame Index]
 0
 [Left Top]
-726, 11
+624, 0
 [Slice Size]
-21, 19
+39, 40
 [Offset]
 0, 0
 [Duration]
-0.100000
+0.010000
 
 
 [Frame Index]
 1
 [Left Top]
-703, 10
+663, 0
 [Slice Size]
-22, 20
+39, 40
 [Offset]
 0, 0
 [Duration]
@@ -35,9 +35,9 @@ texture\Kirby\Kirby\Kirby_Kirby_Left.bmp
 [Frame Index]
 2
 [Left Top]
-681, 11
+702, 0
 [Slice Size]
-21, 19
+39, 40
 [Offset]
 0, 0
 [Duration]
@@ -47,9 +47,9 @@ texture\Kirby\Kirby\Kirby_Kirby_Left.bmp
 [Frame Index]
 3
 [Left Top]
-660, 13
+741, 0
 [Slice Size]
-20, 17
+39, 40
 [Offset]
 0, 0
 [Duration]
@@ -59,9 +59,9 @@ texture\Kirby\Kirby\Kirby_Kirby_Left.bmp
 [Frame Index]
 4
 [Left Top]
-641, 12
+780, 0
 [Slice Size]
-18, 18
+39, 40
 [Offset]
 0, 0
 [Duration]
@@ -71,9 +71,9 @@ texture\Kirby\Kirby\Kirby_Kirby_Left.bmp
 [Frame Index]
 5
 [Left Top]
-622, 11
+819, 0
 [Slice Size]
-18, 19
+39, 40
 [Offset]
 0, 0
 [Duration]
@@ -83,9 +83,9 @@ texture\Kirby\Kirby\Kirby_Kirby_Left.bmp
 [Frame Index]
 6
 [Left Top]
-598, 10
+858, 0
 [Slice Size]
-22, 20
+39, 40
 [Offset]
 0, 0
 [Duration]
@@ -95,36 +95,10 @@ texture\Kirby\Kirby\Kirby_Kirby_Left.bmp
 [Frame Index]
 7
 [Left Top]
-576, 11
+897, 0
 [Slice Size]
-21, 19
+39, 40
 [Offset]
 0, 0
 [Duration]
 0.100000
-
-
-[Frame Index]
-8
-[Left Top]
-555, 13
-[Slice Size]
-20, 17
-[Offset]
-0, 0
-[Duration]
-0.100000
-
-
-[Frame Index]
-9
-[Left Top]
-534, 12
-[Slice Size]
-20, 18
-[Offset]
-0, 0
-[Duration]
-0.100000
-
-

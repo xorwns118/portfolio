@@ -1,9 +1,9 @@
 [Animation Name]
-KIRBY_JUMP_RIGHT
+KIRBY_JUMP
 [Texture Name]
-KirbyTexR
+KirbyTex
 [Texture Path]
-texture\Kirby\Kirby\Kirby_Kirby_Right.bmp
+texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
 [Frame Count]
 1
 
@@ -11,9 +11,9 @@ texture\Kirby\Kirby\Kirby_Kirby_Right.bmp
 [Frame Index]
 0
 [Left Top]
-716, 9
+78, 0
 [Slice Size]
-21, 21
+39, 40
 [Offset]
 0, 0
 [Duration]
