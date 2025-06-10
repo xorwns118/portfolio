@@ -1,5 +1,5 @@
 [Animation Name]
-KIRBY_DEEPFALL
+KIRBY_DEEP_FALL
 [Texture Name]
 KirbyTex
 [Texture Path]
@@ -17,7 +17,7 @@ texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
 [Offset]
 0, 0
 [Duration]
-0.070000
+0.050000
 
 
 [Frame Index]
@@ -29,7 +29,7 @@ texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
 [Offset]
 0, 0
 [Duration]
-0.070000
+0.050000
 
 
 [Frame Index]
@@ -41,6 +41,6 @@ texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
 [Offset]
 0, 0
 [Duration]
-0.070000
+0.050000
 
 

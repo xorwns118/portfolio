@@ -5,7 +5,7 @@ KirbyTex
 [Texture Path]
 texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
 [Frame Count]
-8
+7
 
 
 [Frame Index]
@@ -91,16 +91,5 @@ texture\Kirby\Kirby\Kirby_Normal_Kirby.bmp
 [Duration]
 0.040000
 
-
-[Frame Index]
-7
-[Left Top]
-429, 0
-[Slice Size]
-39, 40
-[Offset]
-0, 0
-[Duration]
-0.040000
 
 
